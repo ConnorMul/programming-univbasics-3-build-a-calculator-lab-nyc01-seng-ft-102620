@@ -18,7 +18,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  num2 % num1 == mod
+  mod = num2 % num1
   mod
 end
 
